@@ -30,7 +30,7 @@ public class stackfromArray
         } 
         Console.WriteLine();
 
-        if(myStack.Contains(5))
+        if(myStack.Contains(5))                                                                //Contains
         {
             Console.WriteLine("true");
         }
