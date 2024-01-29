@@ -42,7 +42,7 @@ public class stackfromArray
         //Pop
         while(myStack.Count > 0)
         {
-            Console.Write(myStack.Pop() +",");                              //Pop Method (Stack)
+            Console.Write(myStack.Pop() +",");                                                  //Pop Method (Stack)
         }   
         Console.WriteLine();
         //Count After Pop Operation
